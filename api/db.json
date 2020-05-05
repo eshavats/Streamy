@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "Stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "Web Development",
+      "description": "Stephen Grider",
+      "userId": "110860307272563123878",
+      "id": 4
+    },
+    {
+      "title": "Programmatic Navigation ",
+      "description": "Let's go to the root route!",
+      "userId": "110860307272563123878",
+      "id": 5
+    },
+    {
+      "title": "React",
+      "description": "It's amazing!",
+      "userId": "110860307272563123878",
+      "id": 6
+    }
+  ]
+}
